@@ -1,0 +1,41 @@
+
+
+table tr td:nth-child(10), table th:nth-child(10) {
+    display: none;
+}
+
+table tr td:nth-child(12), table th:nth-child(12) {
+    display: none;
+}
+
+table tr td:nth-child(13), table th:nth-child(13) {
+    display: none;
+}
+
+table tr td:nth-child(14), table th:nth-child(14) {
+    display: none;
+}
+
+table tr td:nth-child(15), table th:nth-child(15) {
+    display: none;
+}
+
+table tr td:nth-child(16), table th:nth-child(16) {
+    display: none;
+}
+
+table tr td:nth-child(17), table th:nth-child(17) {
+    display: none;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
